@@ -46,3 +46,20 @@ body {
 .relogio span.tempo {
     font-size: 10px;
 }
+
+.footer-rod {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80rem;
+    margin-right: 35rem;
+    position: absolute;
+}
